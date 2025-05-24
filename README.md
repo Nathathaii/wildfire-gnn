@@ -5,11 +5,10 @@ This project presents a machine learning approach to forecast global wildfires b
 
 The objective is to predict the burned area caused by wildfires in each country on a given day using the following datasets:
 
-- 🌐 Global Fire Burned Area (Kaggle): https://www.kaggle.com/datasets/mohammadrahdanmofrad/global-fire-burned-area/data
+- 🌐 [Global Fire Burned Area Dataset (Kaggle)](https://www.kaggle.com/datasets/mohammadrahdanmofrad/global-fire-burned-area/data)
+- 🌦️ [NOAA Global Summary of the Day (2022) (NOAA)](https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/)
+- 📍 [Nominatim Reverse Geocoding API (Nominatim)](https://nominatim.org/release-docs/latest/api/Reverse/)
 
-- 🌦️ Global Summary of the Day (2022) (NOAA): https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/
-
-- 📍 Reverse Geocoding API (Nominatim): https://nominatim.org/release-docs/latest/api/Reverse/
 
 
 ## Adjacency Definitions
